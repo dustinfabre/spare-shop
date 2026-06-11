@@ -110,20 +110,4 @@ watch(
   background: #f0f5ff;
 }
 </style>
-.main {
-  min-height: calc(100vh - 56px);
-  background: var(--bg);
-}
 
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 24px 16px;
-}
-
-.search-section {
-  margin-bottom: 28px;
-  display: flex;
-  align-items: center;
-}
-</style>
